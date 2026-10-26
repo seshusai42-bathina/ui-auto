@@ -1,0 +1,8 @@
+com.example:demo:jar:1.0-SNAPSHOT
++- org.seleniumhq.selenium:selenium-java:jar:4.50.0:compile
+|  \- org.seleniumhq.selenium:selenium-devtools-v154:jar:4.50.0:compile
++- org.slf4j:slf4j-simple:jar:2.0.13:runtime
+|  \- org.slf4j:slf4j-api:jar:2.0.13:compile
+\- io.github.bonigarcia:webdrivermanager:jar:5.9.2:compile
+   \- com.github.docker-java:docker-java:jar:3.4.0:compile
+      \- org.slf4j:jcl-over-slf4j:jar:1.7.30:compile

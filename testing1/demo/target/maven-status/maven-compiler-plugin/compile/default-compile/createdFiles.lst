@@ -1,0 +1,5 @@
+base\BasePage.class
+pages\AddUserPage.class
+utils\ConfigReader.class
+pages\AdminPage.class
+pages\LoginPage.class
